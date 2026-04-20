@@ -1,0 +1,15 @@
+.vscode/
+*.code-workspace
+.idea
+*.iml
+
+.venv
+venv/
+*.pyc
+
+.env
+
+node_modules/
+dist/
+
+
